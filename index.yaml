@@ -1,0 +1,1 @@
+Helm repo index --url https://github.com/hassenbani/chart-k8s.git . 
